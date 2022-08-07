@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wilsonabdiel
 - 👀 I’m interested in Artificial Intelligence and Web Programming
-- 🌱 I’m currently learning Python and C
-- 💞️ I’m looking to collaborate on Web app projects
+- 🌱 I work with python, javascript, sql, c, html and css
+- 💞️ I’m looking to collaborate on Web app projects and AI projects
 - 📫 How to reach me ...email me at @wilsonabdiel86@gmail.com Or send a message on my Instagram @wilsonabdiel
 
 <!---
