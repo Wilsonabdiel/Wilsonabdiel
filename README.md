@@ -3,7 +3,7 @@
 - 🌱 I work with python, javascript, sql, c, PHP,
 html and css
 - 💞️ I’m looking to collaborate on Web app projects and AI projects
-- 📫 How to reach me ...email me at @wilsonabdiel86@gmail.com Or send a message on my Instagram @wilsonabdiel
+- 📫 How to reach me ...email me at @wilsonabdiel86@gmail.com 
 
 <!---
 Wilsonabdiel/Wilsonabdiel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
