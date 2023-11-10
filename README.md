@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence and Web Programming
 - 🌱 I work with python, javascript, sql, c, PHP,
 html and css
-- 💞️ I’m looking to collaborate on Web app projects and AI projects
+- 💞️ I’m looking to collaborate on Web app projects 
 - 📫 How to reach me ...email me at @wilsonabdiel86@gmail.com 
 
 <!---
